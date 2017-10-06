@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Microsoft.Office.Core;
+
 using Excel = Microsoft.Office.Interop.Excel;
 using System.IO;
 using Microsoft.Office.Interop.Excel;
