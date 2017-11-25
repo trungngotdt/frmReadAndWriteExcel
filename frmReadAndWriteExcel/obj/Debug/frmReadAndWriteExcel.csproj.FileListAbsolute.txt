@@ -14,3 +14,19 @@ C:\Users\Tran\Documents\Visual Studio 2017\Projects\frmReadAndWriteExcel\frmRead
 C:\Users\Tran\Documents\Visual Studio 2017\Projects\frmReadAndWriteExcel\frmReadAndWriteExcel\bin\Debug\Remotion.dll
 C:\Users\Tran\Documents\Visual Studio 2017\Projects\frmReadAndWriteExcel\frmReadAndWriteExcel\bin\Debug\Remotion.Interfaces.dll
 C:\Users\Tran\Documents\Visual Studio 2017\Projects\frmReadAndWriteExcel\frmReadAndWriteExcel\bin\Debug\LinqToExcel.xml
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\obj\Debug\frmReadAndWriteExcel.csprojResolveAssemblyReference.cache
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\obj\Debug\frmReadAndWriteExcel.csproj.ResolveComReference.cache
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\obj\Debug\frmReadAndWriteExcel.FrmReadAndSaveExcel.resources
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\obj\Debug\frmReadAndWriteExcel.Properties.Resources.resources
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\obj\Debug\frmReadAndWriteExcel.csproj.GenerateResource.Cache
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\obj\Debug\frmReadAndWriteExcel.csproj.CoreCompileInputs.cache
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\obj\Debug\frmReadAndWriteExcel.exe
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\obj\Debug\frmReadAndWriteExcel.pdb
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\bin\Debug\frmReadAndWriteExcel.exe.config
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\bin\Debug\frmReadAndWriteExcel.exe
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\bin\Debug\frmReadAndWriteExcel.pdb
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\bin\Debug\LinqToExcel.dll
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\bin\Debug\Remotion.dll
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\bin\Debug\Remotion.Interfaces.dll
+C:\Users\Tran\Documents\Git\frmReadAndWriteExcel\frmReadAndWriteExcel\bin\Debug\LinqToExcel.xml
